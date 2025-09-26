@@ -8,15 +8,11 @@ interface LayoutProps {
 const Layout = ({children}: LayoutProps) => {
     return (
         <>
-            {/* Header */}
-
             <Header />
             <div className="container mx-auto pt-24 min-h-[92vh]">
                 {children}
             </div>
             <Footer />
-
-            {/* Footer */}
         </>
     )
 }
