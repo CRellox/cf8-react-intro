@@ -1,17 +1,19 @@
 # CF8 React Intro
 
-A simple React app for learning fundamental React concepts with basic data management functionality.
+A beginner-friendly React application introducing fundamental concepts and components. Created during Coding Factory classes as an introduction to React development.
 
-## Features
+##  Features
 
-- View list of items
-- Add new entries  
-- Delete entries
-- Clean and simple UI
+- View dynamic lists
+- Add new items
+- Remove items
+- Interactive UI components
+- State management basics
 
-## Technologies
+##  Technologies
 
 - React
 - CSS3
 - HTML5
-
+- JavaScript (ES6+)
+- React Components
