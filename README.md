@@ -1,13 +1,17 @@
-CF8 React Intro is an educational application for learning fundamental React concepts.
-A simple React app with basic data management functionality.
+# CF8 React Intro
 
-Features:
-View list of items
-Add new entries
-Delete entries
-Clean and simple UI
+A simple React app for learning fundamental React concepts with basic data management functionality.
 
-Technologies:
-React
-CSS3
-HTML5
+## Features
+
+- View list of items
+- Add new entries  
+- Delete entries
+- Clean and simple UI
+
+## Technologies
+
+- React
+- CSS3
+- HTML5
+
